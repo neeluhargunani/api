@@ -1,0 +1,106 @@
+{
+  "restaurant": [
+    {
+      "name": "Pizza Huthutz",
+      "email": "pizzahut@test.com",
+      "rating": "4.5",
+      "address": "Mumbai",
+      "id": 1
+    },
+    {
+      "name": "McDonald",
+      "email": "mcdonald@test.com",
+      "rating": "3.9",
+      "address": "Delhi",
+      "id": 2
+    },
+    {
+      "name": "BBQ Nation",
+      "email": "bbq@test.com",
+      "rating": "4.3",
+      "address": "Goa",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "Haldiram Nation",
+      "address": "Gurgaon",
+      "rating": "4.5",
+      "email": "haldiram@test.com"
+    },
+    {
+      "name": "KFC",
+      "email": "kfc@test.com",
+      "rating": "4.1",
+      "address": "Delhi",
+      "id": 6
+    },
+    {
+      "name": "sundaybrunch",
+      "email": "sundayebr@test.com",
+      "rating": "4.0",
+      "address": "shimla",
+      "id": 8
+    },
+    {
+      "name": "naturefresh icecream parlour",
+      "email": "ntfrsh@test.com",
+      "rating": "3.9",
+      "address": "banaras",
+      "id": 9
+    }
+  ],
+  "login": [
+    {
+      "user": " admin@xyz.com",
+      "password": "Admin_007"
+    },
+    {
+      "user": "neelu",
+      "password": "neelu@123"
+    }
+  ],
+  "registration": [
+    {
+      "id": 1,
+      "name": "neelamh",
+      "email": "neeluhargunani@gmail.com",
+      "password": "neelu12345",
+      "address": "mumbai thane kalyan"
+    },
+    {
+      "id": 2,
+      "name": "neha",
+      "email": "nehachowdr@gmail.com",
+      "password": "neha1234",
+      "address": "pune sector 20 hinjawadi"
+    },
+    {
+      "name": "nishika lulla",
+      "email": "nish@1234",
+      "password": "nis123456",
+      "address": "chandigarh it hub sector 12",
+      "id": 3
+    }
+  ],
+  "product" :[
+  {
+    "id ": 1,
+    "name " : "MI",
+    "category": "mobile",
+    "price": "1000",
+    "created at":"2020-10-31 00:00:00",
+    "updated at":"2020-10-31 00:00:00"
+
+  },
+  {
+    "id ": 2,
+    "name " : "Dalkien",
+    "category": "3 star Air Condition ",
+    "price": "30,000",
+    "created at":"2020-12-31 00:00:00",
+    "updated at":"2020-10-31 00:00:00"
+
+  }
+]
+}
