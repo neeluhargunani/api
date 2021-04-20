@@ -1,0 +1,46 @@
+{
+    "restaurant": [
+      {
+        "name": "McDonald",
+        "email": "mcdonald@test.com",
+        "rating": "3.9",
+        "address": "Delhi",
+        "id": 2
+      },
+      {
+        "name": "BBQ Nation",
+        "email": "bbq@test.com",
+        "rating": "4.3",
+        "address": "Goa",
+        "id": 4
+      },
+      {
+        "id": 5,
+        "name": "Haldiram Nation",
+        "address": "Gurgaon",
+        "rating": "4.5",
+        "email": "haldiram@test.com"
+      },
+      {
+        "name": "KFC",
+        "email": "kfc@test.com",
+        "rating": "4.1",
+        "address": "Delhi",
+        "id": 6
+      },
+      {
+        "name": "sundaybrunch",
+        "email": "sundayebr@test.com",
+        "rating": "4.0",
+        "address": "shimla",
+        "id": 8
+      },
+      {
+        "name": "naturefresh icecream parlour",
+        "email": "ntfrsh@test.com",
+        "rating": "3.9",
+        "address": "banaras",
+        "id": 9
+      }
+    ]
+}
